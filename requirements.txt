@@ -1,0 +1,8 @@
+pandas
+numpy
+lz4
+zstandard
+psutil
+matplotlib
+streamlit
+scikit-learn
